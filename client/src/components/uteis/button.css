@@ -1,0 +1,27 @@
+.btn{
+    border-radius: 3px;
+}
+
+.red{
+    background: red;
+    border: none;
+    color: #fff;
+}
+
+.blue{
+    background: royalblue;
+    border: none;
+    color: #fff;
+}
+
+.green{
+    background: forestgreen;
+    border: none;
+    color: #fff;
+}
+
+.grey{
+    background: gray;
+    border: none;
+    color: #fff;
+}

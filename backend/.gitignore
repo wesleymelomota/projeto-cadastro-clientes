@@ -1,0 +1,4 @@
+#dependencia
+/node_modules
+#variavel ambiente
+.env

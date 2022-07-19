@@ -1,0 +1,41 @@
+.form-group {
+    display: flex;
+    /*flex-direction: column;*/
+    margin: 3px;
+    background-color: #fff;
+    width: 600px;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    
+}
+
+.user h1 {
+    color: white;
+}
+
+.tabela{
+    background: lightslategray;
+    color: rgb(12, 12, 12);
+}
+
+.input-itens{
+    width: 90%;
+}
+
+.form-group .btns{
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    margin-bottom: 2px;
+}
